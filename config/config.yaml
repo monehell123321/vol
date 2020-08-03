@@ -1,0 +1,304 @@
+token: NzM4NzYwMzc0MjE1NzcwMjI0.XyQmzQ.n7R2Rox-M0-COG_0N6YmuRnDcUc
+constants:
+  pokecordid: "665301904791699476"
+  language: en
+  first: false
+version: 2.3.0
+session:
+  guilds:
+  - id: "693205959912325121"
+    name: Pokemon invasion
+    prefix: .
+    delay: 1
+    enabled: true
+    channels:
+    - id: "693214928039051305"
+      name: spam
+      delay: 20
+      enabled: false
+    - id: "693215427639377979"
+      name: "\U0001F343wild"
+      delay: 20
+      enabled: false
+    - id: "693228003135586344"
+      name: "\U0001F4F8memes"
+      delay: 20
+      enabled: false
+    - id: "693229025526546473"
+      name: "\U0001F9D9aki"
+      delay: 20
+      enabled: false
+    - id: "693234509272842321"
+      name: flex
+      delay: 20
+      enabled: false
+    - id: "693245444758700114"
+      name: welcomes
+      delay: 20
+      enabled: false
+    - id: "693246464859832390"
+      name: logs
+      delay: 20
+      enabled: false
+    - id: "737669556348387358"
+      name: trading
+      delay: 20
+      enabled: false
+    - id: "738411639287578655"
+      name: "\U0001F37Bgeneral"
+      delay: 20
+      enabled: false
+    - id: "738411785652011098"
+      name: "\U0001F37Bgeneral-2-private"
+      delay: 20
+      enabled: false
+  - id: "731916447407931392"
+    name: CAVE 5
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "731916447407931396"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "732336951310680096"
+    name: CAVE 6
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "732336951788830723"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "732612718296563723"
+    name: Cave 7
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "732612718296563726"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "733020443522367539"
+    name: cave 8
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "733020444327804942"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "734052468220231710"
+    name: cave 9
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "734052468723286046"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "734052616287551569"
+    name: cave 10
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "734052616287551572"
+      name: general
+      delay: 20
+      enabled: false
+    - id: "737010975970033776"
+      name: chat
+      delay: 20
+      enabled: false
+  - id: "734071239533920366"
+    name: ༆it’s Selee༆'s server
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "734071240054145115"
+      name: general
+      delay: 20
+      enabled: false
+    - id: "738012741239046166"
+      name: chat
+      delay: 20
+      enabled: false
+  - id: "735187235909009428"
+    name: CAVE 11
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "735187235909009432"
+      name: general
+      delay: 20
+      enabled: false
+    - id: "738206942861983846"
+      name: cave
+      delay: 20
+      enabled: false
+  - id: "737423156792393829"
+    name: ༆it’s Selee༆'s server2
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423156792393832"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737423261004070945"
+    name: ༆it’s Selee༆'s server3
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423261004070948"
+      name: general
+      delay: 20
+      enabled: false
+    - id: "738081916808593430"
+      name: chat
+      delay: 20
+      enabled: false
+  - id: "737423325399220264"
+    name: ༆it’s Selee༆'s server4
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423325399220268"
+      name: general
+      delay: 20
+      enabled: false
+    - id: "738082075529183263"
+      name: chat
+      delay: 20
+      enabled: false
+  - id: "737423416302370851"
+    name: ༆it’s Selee༆'s server5
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423416302370856"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737423507830472745"
+    name: ༆it’s Selee༆'s server6
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423508271005768"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737423578944897155"
+    name: ༆it’s Selee༆'s server7
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423578944897159"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737423673862127668"
+    name: ༆it’s Selee༆'s server8
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423673862127671"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737423754975510688"
+    name: ༆it’s Selee༆'s server9
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737423754975510692"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "737424658181390476"
+    name: ༆it’s Selee༆'s server10
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "737424658684575868"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738334818701541397"
+    name: ༆it’s Selee༆'s server13
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738334818701541400"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738334866671796324"
+    name: ༆it’s Selee༆'s server14
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738334866671796328"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738334901077803019"
+    name: ༆it’s Selee༆'s server15
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738334901077803023"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738334937849004033"
+    name: ༆it’s Selee༆'s server16
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738334937849004037"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738334991934685184"
+    name: ༆it’s Selee༆'s server17
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738334991934685187"
+      name: general
+      delay: 20
+      enabled: false
+  - id: "738335070884069417"
+    name: ༆it’s Selee༆'s server19
+    prefix: p!
+    delay: 5
+    enabled: true
+    channels:
+    - id: "738335071311757372"
+      name: general
+      delay: 20
+      enabled: false
